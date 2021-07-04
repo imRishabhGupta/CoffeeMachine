@@ -17,6 +17,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 /**
  * The type Coffee machine.
+ * Please read java doc of interface.
  */
 public class CoffeeMachineImpl implements CoffeeMachine {
 
